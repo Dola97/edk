@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="18" height="12" viewBox="0 0 18 12">
+    <g id="Icon_ionic-ios-menu" data-name="Icon ionic-ios-menu" transform="translate(-0.5 -11.125)">
+        <g id="Group_3307" data-name="Group 3307">
+            <path id="Path_11486" data-name="Path 11486"
+                d="M21.75,12.7H5.25c-.413,0-.75-.579-.75-1.286h0c0-.707.338-1.286.75-1.286h16.5c.413,0,.75.579.75,1.286h0C22.5,12.118,22.163,12.7,21.75,12.7Z"
+                transform="translate(-4 1)" fill="#272727" />
+            <path id="Path_11487" data-name="Path 11487"
+                d="M21.75,19.446H5.25c-.413,0-.75-.579-.75-1.286h0c0-.707.338-1.286.75-1.286h16.5c.413,0,.75.579.75,1.286h0C22.5,18.868,22.163,19.446,21.75,19.446Z"
+                transform="translate(-4 -1.036)" fill="#272727" />
+            <path id="Path_11488" data-name="Path 11488"
+                d="M21.75,26.2H5.25c-.413,0-.75-.579-.75-1.286h0c0-.707.338-1.286.75-1.286h16.5c.413,0,.75.579.75,1.286h0C22.5,25.618,22.163,26.2,21.75,26.2Z"
+                transform="translate(-4 -3.071)" fill="#272727" />
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36.935" height="36.936"
+  viewBox="0 0 36.935 36.936">
+  <defs>
+    <filter id="Icon_awesome-layer-group" x="0" y="0" width="36.935" height="36.936" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha" />
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feFlood flood-opacity="0.161" />
+      <feComposite operator="in" in2="blur" />
+      <feComposite in="SourceGraphic" />
+    </filter>
+  </defs>
+  <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Icon_awesome-layer-group)">
+    <path id="Icon_awesome-layer-group-2" data-name="Icon awesome-layer-group"
+      d="M.459,5.474,9.074,9.382a.947.947,0,0,0,.787,0l8.615-3.908a.826.826,0,0,0,0-1.48L9.861.085a.947.947,0,0,0-.787,0L.459,3.993a.827.827,0,0,0,0,1.481ZM18.476,8.739l-2.148-.974-5.978,2.71a2.132,2.132,0,0,1-1.765,0L2.608,7.765.459,8.739a.825.825,0,0,0,0,1.479l8.615,3.905a.95.95,0,0,0,.787,0l8.615-3.905a.825.825,0,0,0,0-1.479Zm0,4.726-2.14-.97L10.35,15.209a2.132,2.132,0,0,1-1.765,0L2.6,12.5l-2.141.97a.825.825,0,0,0,0,1.479L9.074,18.85a.95.95,0,0,0,.787,0l8.615-3.905a.825.825,0,0,0,0-1.479Z"
+      transform="translate(9 6)" />
+  </g>
+</svg>

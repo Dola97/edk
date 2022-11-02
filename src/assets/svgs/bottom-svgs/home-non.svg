@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="43.061" height="39.17"
+    viewBox="0 0 43.061 39.17">
+    <defs>
+        <filter id="Icon_ionic-md-home" x="0" y="0" width="43.061" height="39.17" filterUnits="userSpaceOnUse">
+            <feOffset dy="3" input="SourceAlpha" />
+            <feGaussianBlur stdDeviation="3" result="blur" />
+            <feFlood flood-opacity="0.161" />
+            <feComposite operator="in" in2="blur" />
+            <feComposite in="SourceGraphic" />
+        </filter>
+    </defs>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Icon_ionic-md-home)">
+        <path id="Icon_ionic-md-home-2" data-name="Icon ionic-md-home"
+            d="M12,24.5V17.833h5.178V24.5h5.264v-10h3.365L14.593,4.5,3.375,14.5H6.74v10Z"
+            transform="translate(6.94 2.17)" fill="none" stroke="#272727" stroke-width="1" />
+    </g>
+</svg>

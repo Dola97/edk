@@ -1,0 +1,9 @@
+export { HomeScreen } from './home-sc/home-sc';
+export { AddScreen } from './add-sc/add-sc';
+export { ChatScreen } from './chat-sc/chat-sc';
+export { ListScreen } from './list-sc/list-sc';
+export { MessagesScreen } from './messages-sc/messages-sc';
+export { PostDetails } from './post-details/post-sc';
+export { SearchScreen } from './seach-sc/search-sc';
+export { CommuntiesByCategories } from './communties-id/communties-by-categoire-sc';
+export { FavScreen } from './fav-sc/fav-sc';

@@ -1,0 +1,28 @@
+module.exports = {
+  presets: ['module:metro-react-native-babel-preset'],
+  plugins: [
+    [
+      require.resolve('babel-plugin-module-resolver'),
+      {
+        cwd: 'babelrc',
+        extensions: ['.ts', '.tsx', '.js', '.ios.js', '.android.js'],
+        alias: {
+          src: './src',
+          theme: ['./src/theme'],
+          screens: ['./src/screens'],
+          constants: ['./src/constants'],
+          navigations: ['./src/navigations'],
+          components: ['./src/components'],
+          hooks: './src/hooks',
+          api: './src/api',
+          config: './src/config',
+          assets: ['./src/assets'],
+          mock: ['./src/mock'],
+          gql: ['./src/gql'],
+        },
+      },
+    ],
+    'jest-hoist',
+    'react-native-reanimated/plugin',
+  ],
+};

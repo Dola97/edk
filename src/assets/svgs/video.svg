@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+    <g id="Group_3371" data-name="Group 3371" transform="translate(-122 -590)">
+        <circle id="Ellipse_124" data-name="Ellipse 124" cx="20" cy="20" r="20" transform="translate(122 590)"
+            fill="orange" />
+        <path id="Icon_material-ondemand-video" data-name="Icon material-ondemand-video"
+            d="M20.466,4.5H3.4A1.89,1.89,0,0,0,1.5,6.4V17.776a1.9,1.9,0,0,0,1.9,1.9H8.138v1.9h7.586v-1.9h4.741a1.894,1.894,0,0,0,1.887-1.9L22.362,6.4A1.9,1.9,0,0,0,20.466,4.5Zm0,13.276H3.4V6.4H20.466Zm-4.741-5.69L9.086,15.879V8.293Z"
+            transform="translate(130.068 596.966)" fill="#fff" />
+    </g>
+</svg>

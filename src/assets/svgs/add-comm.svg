@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22">
+    <g id="Icon_ionic-ios-add-circle-outline" data-name="Icon ionic-ios-add-circle-outline"
+        transform="translate(-3.375 -3.375)">
+        <path id="Path_11495" data-name="Path 11495"
+            d="M23.117,16.3H18.35V11.536a1.024,1.024,0,0,0-2.048,0V16.3H11.536a.981.981,0,0,0-1.024,1.024.991.991,0,0,0,1.024,1.024H16.3v4.767a.992.992,0,0,0,1.024,1.024,1.019,1.019,0,0,0,1.024-1.024V18.35h4.767a1.024,1.024,0,1,0,0-2.048Z"
+            transform="translate(-2.951 -2.951)" />
+        <path id="Path_11496" data-name="Path 11496"
+            d="M14.375,4.856A9.515,9.515,0,1,1,7.643,7.643a9.456,9.456,0,0,1,6.732-2.787m0-1.481a11,11,0,1,0,11,11,11,11,0,0,0-11-11Z" />
+    </g>
+</svg>

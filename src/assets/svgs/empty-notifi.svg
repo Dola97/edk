@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="162" height="162" viewBox="0 0 162 162">
+  <defs>
+    <filter id="Icon_material-notifications" x="3.199" y="6.699" width="154.603" height="154.603" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <circle id="Ellipse_143" data-name="Ellipse 143" cx="81" cy="81" r="81" fill="#ececec"/>
+  <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Icon_material-notifications)">
+    <path id="Icon_material-notifications-2" data-name="Icon material-notifications" d="M56,103.75c6.875,0,12.5-4.615,12.5-10.256h-25C43.5,99.135,49.063,103.75,56,103.75ZM93.5,72.981V47.34c0-15.744-10.25-28.923-28.125-32.41V11.442c0-4.256-4.187-7.692-9.375-7.692s-9.375,3.436-9.375,7.692v3.487C28.687,18.417,18.5,31.545,18.5,47.34V72.981L6,83.237v5.128H106V83.237Z" transform="translate(58.88 6.45) rotate(30)" fill="#828282"/>
+  </g>
+</svg>

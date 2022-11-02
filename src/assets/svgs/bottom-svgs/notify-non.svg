@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="39" height="39"
+    viewBox="0 0 39 39">
+    <defs>
+        <filter id="Icon_material-notifications" x="0" y="0" width="39" height="39" filterUnits="userSpaceOnUse">
+            <feOffset dy="3" input="SourceAlpha" />
+            <feGaussianBlur stdDeviation="3" result="blur" />
+            <feFlood flood-opacity="0.161" />
+            <feComposite operator="in" in2="blur" />
+            <feComposite in="SourceGraphic" />
+        </filter>
+    </defs>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Icon_material-notifications)">
+        <path id="Icon_material-notifications-2" data-name="Icon material-notifications"
+            d="M16,23.75A2.316,2.316,0,0,0,18.5,21.7h-5A2.308,2.308,0,0,0,16,23.75ZM23.5,17.6V12.468a6.5,6.5,0,0,0-5.625-6.482v-.7A1.73,1.73,0,0,0,16,3.75a1.73,1.73,0,0,0-1.875,1.538v.7A6.482,6.482,0,0,0,8.5,12.468V17.6L6,19.647v1.026H26V19.647Z"
+            transform="translate(3.5 2.75)" fill="none" stroke="#272727" stroke-width="1" />
+    </g>
+</svg>

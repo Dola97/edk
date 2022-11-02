@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+    <g id="Group_3369" data-name="Group 3369" transform="translate(-212 -590)">
+        <circle id="Ellipse_125" data-name="Ellipse 125" cx="20" cy="20" r="20" transform="translate(212 590)"
+            fill="#8d6ee2" />
+        <path id="Icon_open-audio-spectrum" data-name="Icon open-audio-spectrum"
+            d="M11.379,0V22.759h2.845V0ZM5.69,2.845V19.914H8.534V2.845ZM17.069,5.69V17.069h2.845V5.69ZM0,8.534v5.69H2.845V8.534Z"
+            transform="translate(222.043 598.828)" fill="#fff" />
+    </g>
+</svg>
